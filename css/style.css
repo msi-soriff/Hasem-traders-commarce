@@ -1,0 +1,16 @@
+.ht-card{
+    border:0;
+}
+.card-footer{
+    background-color: white;
+    border: 0;
+}
+body{
+    font-family: 'Yusei Magic', sans-serif;
+}
+.card-title{
+    font-weight: 700;
+}
+.headings{
+    font-weight: 700;
+}
