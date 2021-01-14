@@ -14,3 +14,9 @@ body{
 .headings{
     font-weight: 700;
 }
+.card-img-top{
+    background-color: rgb(240, 234, 234);
+}
+h3{
+    font-weight: 900;
+}
